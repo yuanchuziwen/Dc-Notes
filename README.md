@@ -88,3 +88,7 @@
 > 包含面经和算法题，持续维护
 
 <img src="https://cdn.jsdelivr.net/gh/DreamCats/imgs@main/uPic/Dc-Notes小程序-体验版-lln2vy.jpg" alt="Dc-Notes小程序-体验版-lln2vy" style="zoom:50%;" />111
+<<<<<<< HEAD
+=======
+222
+>>>>>>> 4695700 (second amend)
